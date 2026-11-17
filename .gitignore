@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+
+# Personal
+CLAUDE.md
+
+# Data
+data/raw/
